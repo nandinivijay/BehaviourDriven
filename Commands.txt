@@ -9,3 +9,5 @@ how to run a program in pytest
 	pytest -v - s --html=report.html pythonfilename 
 
 	pytest -v -s --html=report.html test.py
+
+behave features\scenariobg.feature --tags @group
