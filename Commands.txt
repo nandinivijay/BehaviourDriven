@@ -1,0 +1,11 @@
+How do you run a feature files:
+
+Ans: behave feature file folder\feature_file_name
+
+	eg: behave features\orangehrmlogin.feature
+
+how to run a program in pytest
+
+	pytest -v - s --html=report.html pythonfilename 
+
+	pytest -v -s --html=report.html test.py
